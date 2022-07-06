@@ -3,7 +3,7 @@
 He trabajado con proyectos que involucran el uso de Machine Learning, Depp Learning, y Procesamiento de Lenguaje Natural.
 
 
-###Sobre Mi
+### Sobre Mi
 ```js
 VICBOXMS = {
   Pronombres : "El",
