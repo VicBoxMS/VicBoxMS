@@ -16,7 +16,7 @@ VICBOXMS = {
 }
 ```
 
-<img src="https://user-images.githubusercontent.com/101311053/177655381-0682dadb-e405-441f-a52a-ba9705117fe6.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/101311053/177655381-0682dadb-e405-441f-a52a-ba9705117fe6.jpg" width="350">
 
 <!--
 **VicBoxMS/VicBoxMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
