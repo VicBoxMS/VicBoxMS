@@ -11,7 +11,7 @@ VicBoxMS = {
   Herramientas: [PowerBi, StreamLite, Neo4j, Latex],
   Otros Marcos de Trabajo : ["PySpark"],
   Reto : "Nivel Principiante :  Llegar a 10 Seguidores",
-  Actualmente estoy aprendiendo : APIFAST y AWS Services  🌱
+  Actualmente estoy aprendiendo : APIFAST y AWS  🌱
   Otros Interes :  Calistenia y Ajedrez 💬
 }
 ```
