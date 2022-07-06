@@ -5,7 +5,7 @@ He trabajado con proyectos que involucran el uso de Machine Learning, Depp Learn
 
 ### Sobre Mi
 ```js
-VICBOXMS = {
+VicBoxMS = {
   Pronombres : "El",
   Lenguajes de Programación : [R, Python, SAS],
   Herramientas: [PowerBi, StreamLite, Neo4j, Latex],
