@@ -2,19 +2,19 @@
 
 He trabajado con proyectos que involucran el uso de Machine Learning, Depp Learning, y Procesamiento de Lenguaje Natural.
 
+
+###Sobre Mi
 ```js
 VICBOXMS = {
   Pronombres : "El",
   Lenguajes de Programación : [R, Python, SAS],
   Herramientas: [PowerBi, StreamLite, Neo4j, Latex],
   Otros Marcos de Trabajo : ["PySpark"],
-  Reto : "Nivel Principiante :  Llegar a 10 Seguidores"
+  Reto : "Nivel Principiante :  Llegar a 10 Seguidores",
+  Actualmente estoy aprendiendo : APIFAST y AWS Services  🌱
+  Otros Interes :  Calistenia y Ajedrez 💬
 }
-
 ```
-
-- 🌱 Actualmente estoy aprendiendo : APIFAST y AWS Services
-- 💬 Otros Interes :  Calistenia y Ajedrez 
 
 ![chess](https://user-images.githubusercontent.com/101311053/177655381-0682dadb-e405-441f-a52a-ba9705117fe6.jpg)
 
