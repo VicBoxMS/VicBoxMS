@@ -1,7 +1,6 @@
 ### Hola, Soy Victor 👋
 
-He trabajado con proyectos que involucran el uso de Machine Learning, Depp Learning, y Procesamiento de Lenguaje Natural.
-
+He trabajado con proyectos que involucran el uso de Estadistica, Machine Learning, Depp Learning y el Procesamiento de Lenguaje Natural.
 
 ### Sobre Mi
 ```js
