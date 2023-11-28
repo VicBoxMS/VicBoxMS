@@ -5,7 +5,7 @@ He trabajado con proyectos que involucran el uso de Estadistica, Machine Learnin
 ### Sobre Mi
 ```js
 VicBoxMS = {
-  Lenguajes de Programación : [R, Python, SAS],
+  Lenguajes : [R, Python, SAS, SQL],
   Herramientas: [PowerBi, StreamLite, Neo4j, Latex],
   Otros Marcos de Trabajo : ["PySpark"],
   Reto : "Nivel Principiante :  Llegar a 10 Seguidores",
