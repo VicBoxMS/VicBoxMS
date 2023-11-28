@@ -10,7 +10,7 @@ VicBoxMS = {
   Otros Marcos de Trabajo : ["PySpark"],
   Reto : "Nivel Principiante :  Llegar a 10 Seguidores",
   Actualmente estoy aprendiendo : APIFAST y AWS  🌱
-  Otros Interes :  Calistenia y Ajedrez 💬
+  Otros Interes : Formula 1, Calistenia, Festivales & Ajedrez 
 }
 ```
 
